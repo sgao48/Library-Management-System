@@ -50,18 +50,14 @@ Course Project of Principles of Database Systems of Zhejiang University.
 
 ### **System Design**
 
-<img src="./img/system design.jpg"/>
+<img src="./img/system design.jpg" width=600/>
 
 ### **1. Login**
 - Time Display
 - User Login
 - Jump to Other Interface
 
-<<<<<<< HEAD
-<img src="./img/login.jpg" width=200/>
-=======
-<img src="./img/login.jpg width=250 height=250"/>
->>>>>>> 2f6eec7da83d670af67a19c2cfc218a2a79f17ad
+<img src="./img/login.jpg" width=300/>
 
 ### **2. Administrator**
 - Register ID
@@ -71,28 +67,15 @@ Course Project of Principles of Database Systems of Zhejiang University.
 - Borrow & Return Books
 - Setting
 
-<<<<<<< HEAD
-<img src="./img/administrator.jpg" width=200/>
+<img src="./img/administrator.jpg" width=300/>
 
 ### **3. Book Query**
-<img src="./img/book query.jpg" width=200/>
-=======
-<img src="./img/administrator.jpg width=250 height=250"/>
-
-### **3. Book Query**
-<img src="./img/book query.jpg width=250 height=250"/>
->>>>>>> 2f6eec7da83d670af67a19c2cfc218a2a79f17ad
+<img src="./img/book query.jpg" width=300/>
 
 ### **4. User**
 - Borrowing Information Query
 - Setting
 
-<<<<<<< HEAD
-<img src="./img/user.jpg" width=200/>
+<img src="./img/user.jpg" width=300/>
 
-<img src="./img/borrowing information.jpg" width=200/>
-=======
-<img src="./img/user.jpg width=250 height=250"/>
-
-<img src="./img/borrowing information.jpg width=250 height=250"/>
->>>>>>> 2f6eec7da83d670af67a19c2cfc218a2a79f17ad
+<img src="./img/borrowing information.jpg" width=300/>
