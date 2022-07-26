@@ -1,8 +1,6 @@
 # Library-Management-System
 Course Project of Principles of Database Systems of Zhejiang University.
 
-<br>
-
 ## **Contents**
 - [Introduction](#introduction)
 - [Development Environment & Tools](#development-environment--tools)
@@ -52,14 +50,14 @@ Course Project of Principles of Database Systems of Zhejiang University.
 
 ### **System Design**
 
-<img src="./img/system%20design.jpg"/>
+<img src="./img/system design.jpg"/>
 
 ### **1. Login**
 - Time Display
 - User Login
 - Jump to Other Interface
 
-<img src="./img/login.jpg"/>
+<img src="./img/login.jpg" width=200/>
 
 ### **2. Administrator**
 - Register ID
@@ -69,15 +67,15 @@ Course Project of Principles of Database Systems of Zhejiang University.
 - Borrow & Return Books
 - Setting
 
-<img src="./img/administrator.jpg"/>
+<img src="./img/administrator.jpg" width=200/>
 
 ### **3. Book Query**
-<img src="./img/book query.jpg"/>
+<img src="./img/book query.jpg" width=200/>
 
 ### **4. User**
 - Borrowing Information Query
 - Setting
 
-<img src="./img/user.jpg"/>
+<img src="./img/user.jpg" width=200/>
 
-<img src="./img/borrowing information.jpg"/>
+<img src="./img/borrowing information.jpg" width=200/>
